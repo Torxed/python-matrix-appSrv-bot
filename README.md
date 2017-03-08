@@ -12,7 +12,13 @@ Is done in `config.py`, most of it should be self explanatory.
 How to run
 =====
 
-python run.py
+    python run.py
+
+How to write more plugins
+======
+
+Use the template in `./examples/plugin.py`.
+It should be quite dead simple.
 
 Features
 ========
