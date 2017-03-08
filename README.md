@@ -17,8 +17,8 @@ How to run
 How to write more plugins
 ======
 
-Use the template in `./examples/plugin.py`.
-It should be quite dead simple.
+Use the template in `./examples/` and place them under `./plugins/`.
+It should be quite dead simple - and they'll get auto loaded when put in `./plugins/`.
 
 Features
 ========
